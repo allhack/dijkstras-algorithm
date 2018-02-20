@@ -1,0 +1,7 @@
+D:\VisualStudioProjects\distributedlabtest\timetable1\bin\Debug\timetable1.exe.config
+D:\VisualStudioProjects\distributedlabtest\timetable1\bin\Debug\timetable1.exe
+D:\VisualStudioProjects\distributedlabtest\timetable1\bin\Debug\timetable1.pdb
+D:\VisualStudioProjects\distributedlabtest\timetable1\obj\Debug\timetable1.csprojResolveAssemblyReference.cache
+D:\VisualStudioProjects\distributedlabtest\timetable1\obj\Debug\timetable1.csproj.CoreCompileInputs.cache
+D:\VisualStudioProjects\distributedlabtest\timetable1\obj\Debug\timetable1.exe
+D:\VisualStudioProjects\distributedlabtest\timetable1\obj\Debug\timetable1.pdb
